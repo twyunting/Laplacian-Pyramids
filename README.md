@@ -1,5 +1,5 @@
 # Image Blending Using Pyramids
-## CSC-676 Homework 3 / American University 
+## CSC-676 / American University 
 Author: [Yunting Chiu](https://www.linkedin.com/in/yuntingchiu)\
 March 08, 2021
 
